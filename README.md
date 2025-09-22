@@ -21,17 +21,17 @@ La aplicación está estructurada en cinco secciones principales, cada una dedic
     <td align="center"><strong>3. Elementos de Selección</strong></td>
   </tr>
   <tr>
-    <td><img src="URL_DE_TU_IMAGEN_1" alt="Pantalla de Text Fields" width="200"/></td>
-    <td><img src="URL_DE_TU_IMAGEN_2" alt="Pantalla de Botones" width="200"/></td>
-    <td><img src="URL_DE_TU_IMAGEN_3" alt="Pantalla de Elementos de Selección" width="200"/></td>
+    <td><img src="https://github.com/user-attachments/assets/13799c0f-6b8f-4451-a2fe-866775ba7406" alt="Pantalla de Text Fields" width="200"/></td>
+    <td><img src="https://github.com/user-attachments/assets/a2d4e1df-5a14-483a-b3b3-afcd3d1266bf" alt="Pantalla de Botones" width="200"/></td>
+    <td><img src="https://github.com/user-attachments/assets/a97de2f2-e984-4885-8ddf-44fc04550a02" alt="Pantalla de Elementos de Selección" width="200"/></td>
   </tr>
     <tr>
     <td align="center"><strong>4. Listas</strong></td>
     <td align="center"><strong>5. Info & Estado Compartido</strong></td>
   </tr>
    <tr>
-    <td><img src="URL_DE_TU_IMAGEN_4" alt="Pantalla de Listas" width="200"/></td>
-    <td><img src="URL_DE_TU_IMAGEN_5" alt="Pantalla de Información y Estado Compartido" width="200"/></td>
+    <td><img src="https://github.com/user-attachments/assets/87fabf50-246d-4bf0-b723-191017da0830" alt="Pantalla de Listas" width="200"/></td>
+    <td><img src="https://github.com/user-attachments/assets/9458b4c6-af16-49a0-8cc9-61ecee32a628" alt="Pantalla de Información y Estado Compartido" width="200"/></td>
   </tr>
 </table>
 
