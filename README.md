@@ -1,4 +1,5 @@
-# Galería Interactiva de Widgets en Flutter
+# Práctica 1: "Instalación y Funcionamiento de los Entornos Móviles"
+## Ejercicio 2: Transiciones entre Activities y Fragments (Version en Flutter)
 
 Este proyecto es una aplicación móvil desarrollada en Flutter que funciona como una galería interactiva y educativa de los widgets de UI más comunes en el desarrollo de aplicaciones. El objetivo principal es ofrecer a los desarrolladores, especialmente a aquellos que están aprendiendo Flutter, un entorno práctico para ver, probar y entender el funcionamiento de cada componente.
 
